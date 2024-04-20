@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Coca Cola L 1.5",
+    "description": "Bebida Cola de 1.5 Litros",
+    "price": "15.00",
+    "thumbnail": "https://m.media-amazon.com/images/I/51v8nyxSOYL._SL1500_.jpg",
+    "code": 10001,
+    "stock": 200
+  },
+  {
+    "id": 2,
+    "title": "Pepsi L 2.25",
+    "description": "Bebida Cola de 2.25 Litros",
+    "price": "12.00",
+    "thumbnail": "https://www.cdparque.com/img/sections/productos/pepsi.png",
+    "code": 10002,
+    "stock": 300
+  }
+]
